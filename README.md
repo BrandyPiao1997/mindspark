@@ -1,4 +1,4 @@
-# NewsAI Quiz API
+# Mindspark
 
 ## Overview
 
